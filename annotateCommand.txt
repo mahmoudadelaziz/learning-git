@@ -1,0 +1,9 @@
+# The Annotate Command
+You can use this command to show the changes made to a file over all commits.
+e880f28e	(mahmoudadelaziz	2023-11-03 08:15:07 +0200	1)# Learning Git
+e880f28e	(mahmoudadelaziz	2023-11-03 08:15:07 +0200	2)Hello, world! This is my first line within the git terminal.
+e880f28e	(mahmoudadelaziz	2023-11-03 08:15:07 +0200	3)TODO: Finish Chapter 1.
+e880f28e	(mahmoudadelaziz	2023-11-03 08:15:07 +0200	4)TODO: Learn more commands.
+e880f28e	(mahmoudadelaziz	2023-11-03 08:15:07 +0200	5)TODO: Read articles on git version control.
+cd602fe3	(mahmoudadelaziz	2023-11-03 08:22:06 +0200	6)TODO: Read a history book.
+825bf467	(mahmoudadelaziz	2023-11-04 03:20:37 +0200	7)TODO: Prepare for tomorrow.
