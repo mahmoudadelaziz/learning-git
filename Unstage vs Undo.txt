@@ -1,0 +1,11 @@
+To unstage a single file
+git reset HEAD <filename>
+
+To unstage all files in the staging area
+git reset HEAD
+
+To undo changes to an unstaged file
+git checkout -- <filename>
+
+To undo changes to all unstaged files
+git checkout .
