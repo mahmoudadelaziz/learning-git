@@ -1,0 +1,12 @@
+# Customizing the log command output
+
+- Get only 5 commits (for a file)
+git log -5 (<filename>)
+
+- Restrict 'git log' by date
+git log --since="Month Day Year"
+Example:
+git log --since="Mar 2 2023"
+Another Example:
+git log --since="Mar 15 2023" --until="Apr 15 2023"
+

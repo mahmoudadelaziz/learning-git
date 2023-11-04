@@ -1,0 +1,15 @@
+## Restoring an old version of a file
+> To get the version in the last commit
+git checkout -- <filename>
+> To revert to a version from a specific commit
+git checkout <hash> <filename>
+
+## Restoring a repo to a previous version
+git checkout <hash>
+
+## Cleaning a repository
+> See what files are not being tracked
+git clean -n
+> Delete those files
+git clean -f
+WARNING: This command cannot be undone.
