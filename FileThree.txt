@@ -1,2 +1,3 @@
 Hello to FileThree!
 This is the third file I am changing.
+First change to FileThree.
