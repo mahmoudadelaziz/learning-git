@@ -1,1 +1,2 @@
 C) Submit expenses.
+D) Finalize report.
